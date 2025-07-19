@@ -45,8 +45,8 @@ if(isset($_POST["Login"])){
     $password = $_POST["password"];
 
     //admin info
-    $admin_user = "rand09";
-    $admin_pass = "pprrbb00";
+    $admin_user = "admin";
+    $admin_pass = "admin";
 
     $temp = false;
 
