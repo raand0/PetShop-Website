@@ -1,8 +1,8 @@
 <?php
 
-$host = 'localhost';
-$dbname = 'petshop';
-$db_user = 'root';
+$host = '';
+$dbname = '';
+$db_user = '';
 $db_pass = '';
 
 try {
